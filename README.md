@@ -10,8 +10,6 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
-### `npm test`
-
 
 
 I Started it by creating a react app. Below command will create a react app, which creats basic BoilerPlate
