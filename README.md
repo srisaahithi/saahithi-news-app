@@ -1,6 +1,19 @@
-Creating A Live News App Using React and [News API](https://newsapi.org/).
-
 ## React Saahithi- News App
+
+## Available Scripts
+
+move inside the project directory and run:
+### `npm install`
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
+### `npm test`
+
+
+
 I Started it by creating a react app. Below command will create a react app, which creats basic BoilerPlate
 ## npm create-react-app saahithi-react-news-app
 
@@ -19,23 +32,3 @@ The news API KEY - I registered is :
 # 96351bfb5a984d29b3a8550e664a0efb
 
 I declared all the API Fetch functions as async to create an aynchronous function. This keyword is important as we are working with asynchronous code, when we are connecting to the News API.
-
-
-
-## Available Scripts
-
-move inside the project directory and run:
-### `npm install`
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-
-Framework
-
-## UI - Semantic UI React Component framework
